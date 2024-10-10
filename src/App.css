@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+.text{
+    text-align: center;
+    font-family:sans-serif;
+    display: none;
+}
+.ShowText{
+    display: block;
+}
+input{
+    font-size: 20px;
+}
